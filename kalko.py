@@ -1,23 +1,23 @@
 
 num1 = float(input("Sisesta esimene number: "))  
-matapask = input("Sisesta (+, -, *, /): ")      
+mata = input("Sisesta (+, -, *, /): ")      
 num2 = float(input("Sisesta teine number: "))    
 
-if matapask == "+":
-    mata = num1 + num2
+if mata1 == "+":
+    mata2 = num1 + num2
     print("Tulemus on:", mata)
 
-elif matapask == "-":
-    mata = num1 - num2
+elif mata == "-":
+    mata2 = num1 - num2
     print("Tulemus on:", mata)
 
-elif matapask == "*":
-    mata = num1 * num2
+elif mata1== "*":
+    mata2 = num1 * num2
     print("Tulemus on:", mata)
 
-elif matapask == "/":
+elif mata1 == "/":
     if num2 != 0:
-        mata = num1 / num2
+        mata2 = num1 / num2
         print("Tulemus on:", mata)
     else:
         print("Pole võimalik bro!")  
