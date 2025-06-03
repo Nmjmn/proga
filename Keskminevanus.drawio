@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="792" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-0" target="J3NKAnCHbkuDPxCFPS_V-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-0" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-33" target="J3NKAnCHbkuDPxCFPS_V-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-33" value="küsib kasutajalt tema vanust" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-35" target="J3NKAnCHbkuDPxCFPS_V-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-35" value="küsib kasutajalt tema õe vanust" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-37" target="J3NKAnCHbkuDPxCFPS_V-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-37" target="J3NKAnCHbkuDPxCFPS_V-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-37" value="küsib kasutajalt tema venna vanust" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-42" value="ei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-43" value="ei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="488" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-44" value="ei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="668" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-51" value="jah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-52" value="jah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-53" target="J3NKAnCHbkuDPxCFPS_V-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-53" value="arvutab nende keskmise" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-55" value="ütleb kasutajale nende keskmise vanuse &quot;teie ja teie vendade-õdede keskmine vanus on see:&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-57" target="J3NKAnCHbkuDPxCFPS_V-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-57" value="küsib kasutajalt tema ema vanust" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-55" target="J3NKAnCHbkuDPxCFPS_V-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="830" as="sourcePoint" />
+            <mxPoint x="660" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-60" value="ei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="295" y="838" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-61" target="J3NKAnCHbkuDPxCFPS_V-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-61" value="küsib kasutajalt tema isa vanust" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-64" value="ei" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="990" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-65" value="jah" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="940" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-66" target="J3NKAnCHbkuDPxCFPS_V-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-66" value="arvutab vanemate keskmise vanuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-68" target="J3NKAnCHbkuDPxCFPS_V-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-68" value="teavitab kasutajat vanemate keskmisest vanusest" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-72" target="J3NKAnCHbkuDPxCFPS_V-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-72" value="&amp;nbsp;arvutab eelneva kahe tulemuse põhjal kogu perekonna keskmise vanuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="J3NKAnCHbkuDPxCFPS_V-74" target="J3NKAnCHbkuDPxCFPS_V-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-74" value="Ütleb perele nende keskmise vanuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J3NKAnCHbkuDPxCFPS_V-76" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="1250" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
