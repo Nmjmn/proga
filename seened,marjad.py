@@ -16,7 +16,7 @@ while i > 0:
 
     if valik == "välju":
         print("Head aega!")
-        i = 0  # lõpetame tsükli
+        i = 0  
    
     elif valik == "seent":
         j = 1
@@ -72,7 +72,7 @@ while i > 0:
                     print("Uus marja lisatud.\n")
 
                 elif nr == len(marjad)+2:
-                    l = 0  # tagasi peamenüüsse
+                    l = 0  
 
                 elif 1 <= nr <= len(marjad):
                     print(f"\n{marjad[nr-1].capitalize()}: {marja_info[nr-1]}\n")
