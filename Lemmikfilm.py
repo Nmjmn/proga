@@ -32,7 +32,6 @@ if any("terminator" in film for film in lemmikfilmid):
 if any("vanamehe film" in film for film in lemmikfilmid):
     print("aga kuš šu šnikurš on šiiš?")
 
-# Filmide koguarv ja kommentaar
 arv = len(lemmikfilmid)
 print(f"Sul on lemmikfilmide nimekirjas {arv} filmi.")
 
